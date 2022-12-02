@@ -93,6 +93,7 @@ p.facts {
 
 .column {
   display: inline-block;
+  vertical-align: middle;
 }
 
 .column1 {
@@ -100,7 +101,7 @@ p.facts {
 }
 
 .column2 {
-  margin: 0 5vw 10vh 50px;
+  margin: auto;
 }
 
 /* MAIN - ARTICLE */
