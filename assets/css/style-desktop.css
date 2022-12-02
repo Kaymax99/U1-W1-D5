@@ -1,0 +1,191 @@
+/* IMPOSTAZIONI GENALI */
+html {
+  margin: 0px auto;
+}
+
+body {
+  color: #393d41;
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+}
+
+/* HEADER */
+
+.top_bar {
+  background-color: black;
+  padding: 40px 0px 40px 60px;
+}
+
+.logo {
+  padding-left: 20px;
+}
+
+.heading_intro {
+  margin: 0 auto;
+  text-align: center;
+  background-image: url(../images/banner.jpg);
+  background-repeat: no-repeat;
+  height: 65vh;
+  max-width: 100vw;
+  margin-bottom: 50px;
+}
+
+.headings {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.title {
+  font-size: 2.5em;
+  line-height: 1;
+  padding: 5em 0 10px 0;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 0px;
+}
+
+.presentation {
+  padding: 20px 24vw;
+  font-size: 1.35em;
+}
+
+.letsgo {
+  background-color: #f04c2f;
+  color: white;
+  font-size: 1.05em;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  margin-top: 20px;
+  padding: 20px 40px;
+  border-radius: 5px;
+  border: none;
+}
+
+.letsgo:hover {
+  background-color: #f1755f;
+}
+
+/* IMAGES */
+.img1 {
+  height: 40vh;
+  border-radius: 50vh;
+}
+
+.img2 {
+  width: 400px;
+  height: 300px;
+}
+
+/* MAIN */
+
+p.facts {
+  padding: 10px 80px 20px 0px;
+}
+
+.orange_sq {
+  text-align: center;
+  margin-top: 50px;
+  padding: 5px;
+  background-color: #e22d0e;
+  color: white;
+}
+
+.column {
+  display: inline-block;
+}
+
+.column1 {
+  margin: 5vh 3vw 5vh 10vw;
+}
+
+.column2 {
+  margin: 0 5vw 10vh 50px;
+}
+
+/* MAIN - ARTICLE */
+
+h3 {
+  padding: 40px 0px 0px;
+  font-size: 2em;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+}
+.quote {
+  font-style: italic;
+  font-size: 1.25em;
+  padding: 10px 60px 30px;
+}
+
+.quote_author {
+  font-size: 1.25em;
+}
+.quote_role {
+  font-size: 0.7em;
+  padding: 0 0 40px;
+}
+
+/* ASIDE */
+aside {
+  margin-top: 60px;
+}
+
+h4 {
+  margin: 20px 0 0;
+}
+
+.section_p {
+  margin: 10px auto;
+  padding-bottom: 40px;
+}
+
+.line {
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cards {
+  text-align: center;
+  border: 1px solid #dee1e3;
+  display: inline-block;
+}
+
+.test {
+  margin: 5px;
+}
+/* FOOTER */
+
+footer {
+  text-align: center;
+  background-color: #25a2c3;
+  color: #c8e7f0;
+  margin-top: 60px;
+  padding: 10px 10px 50px;
+}
+
+.footer_heading {
+  color: white;
+}
+
+h5 {
+  font-size: 2.5em;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 30px;
+}
+
+a {
+  color: #c8e7f0;
+}
+
+.contacts {
+  padding: 0px;
+}
+
+.copyright {
+  margin: 30px 40vw;
+  padding: 40px;
+  border-top: solid 1px white;
+}
